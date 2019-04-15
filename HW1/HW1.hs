@@ -1,5 +1,7 @@
 module HW1 where
 
+--Ayoung Kang, Jianlong Huang, Junze Zhang, Yunqiao Cai
+
 import Data.List (nub,sort)
 
 --Exercise 1
